@@ -1,1 +1,13 @@
 
+{
+  "ad_enabled": true,
+  "cooldown_interstitial_sec": 5,
+  "cooldown_app_open_sec": 5,
+  "cooldown_native_sec": 5,
+  "cooldown_banner_sec": 5,
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "admob_app_open_id": "ca-app-pub-3940256099942544/1033173712"
+}
