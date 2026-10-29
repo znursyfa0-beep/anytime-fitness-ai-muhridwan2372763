@@ -1,7 +1,7 @@
 
 {
   "ad_enabled": true,
-  "cooldown_interstitial_sec": 5,
+  "cooldown_interstitial_sec": 15,
   "cooldown_app_open_sec": 5,
   "cooldown_native_sec": 5,
   "cooldown_banner_sec": 5,
